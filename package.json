@@ -1,0 +1,33 @@
+{
+  "name": "dann-scraper",
+  "version": "1.0.0-beta.1",
+  "description": "The Library scraper for WhatsApp bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm i && npm start",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test2": "nodemon index.js",
+    "update": "npm update"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gihub.com/DannOfficial/dann-scraper"
+  },
+  "keywords": [
+    "api",
+    "scrape",
+    "scraper",
+    "dann-scraper"
+    "DannTeam"
+  ],
+  "author": "DannTeam",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "axios": "^1.6.1",
+    "chalk": "^4.1.1",
+    "cheerio": "^1.0.0-rc.12",
+    "node-fetch": "^2.6.7",
+    "yt-search": "^2.10.4",
+    "ytdl-core": "^4.11.5"
+  }
+}
