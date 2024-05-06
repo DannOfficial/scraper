@@ -4,20 +4,18 @@
   "description": "The Library scraper for WhatsApp bot",
   "main": "index.js",
   "scripts": {
-    "start": "npm i && npm start",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "test2": "nodemon index.js",
-    "update": "npm update"
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://gihub.com/DannOfficial/dann-scraper"
+    "url": "https://gihub.com/DannOfficial/scraper"
   },
   "keywords": [
     "api",
     "scrape",
     "scraper",
-    "dann-scraper"
+    "dann-scraper",
     "DannTeam"
   ],
   "author": "DannTeam",
